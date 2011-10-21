@@ -27,7 +27,7 @@ print lista[::4]'''
 #diccionarios
 
 dicc={"Barcelona" : "Mesi",
-	  "Real Madrid" : "Ronaldo"}
+	  "Real Madrid" : "Ronaldo (Feo)"}
 	  
 
 print dicc
